@@ -14,4 +14,4 @@ def binary_search(arr, n):
 
 
 arr = [51, 100, 231, 400]
-binary_search(arr, 231)
+binary_search(arr, 400)
