@@ -13,5 +13,5 @@ def binary_search(arr, n):
     print(f"{n} is Not Found")
 
 
-arr = [51, 100, 231, 400]
+arr = [50, 100, 231, 400]
 binary_search(arr, 400)
